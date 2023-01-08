@@ -1,0 +1,49 @@
+App {
+  background-color: bisque
+}
+
+.img-banner {
+  padding: 30px;
+  margin: auto;
+}
+
+.gif {
+  width: 40%;
+}
+
+.main-app {
+    text-align: center;
+    margin: 100px;
+}
+
+.cta-button {
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    min-width: 250px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.connect-wallet-button {
+    background: rgb(32, 129, 226);
+}
+
+.mint-nft-button {
+    background: orange;
+}
+
+.text {
+  color: black;
+}
+
+.loader {
+  border: 5px solid #f3f3f3; /* Light grey */
+  border-top: 5px solid #FBD34D; /* Yellow */
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  animation: spin 2s linear infinite;
+  margin: 0px 15px;
+}
